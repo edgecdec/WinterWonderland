@@ -1,0 +1,1 @@
+/tellraw @a ["",{"text":"[","bold":true,"color":"white"},{"text":"Sled Race","bold":true,"color":"aqua"},{"text":"]","bold":true,"color":"white"},{"text":" GO!!!!!","color":"gold"}]
